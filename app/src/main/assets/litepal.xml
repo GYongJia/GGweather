@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname value="GG_weacher"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.example.ggweather.db.Province"/>
+        <mapping class="com.example.ggweather.db.City"/>
+        <mapping class="com.example.ggweather.db.County"/>
+    </list>
+
+</litepal>
